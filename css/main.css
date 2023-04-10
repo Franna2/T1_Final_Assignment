@@ -1,0 +1,504 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: darkgoldenrod;
+    width: 100%;
+    opacity: 1;
+}
+
+.stream{
+    width: 200px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 75px;
+}
+
+nav{
+    width: 100%;
+    height: 75px;
+    margin-top: -220px;
+}
+
+.nav-con{
+width: 550px;
+height: 70px;
+margin-top: 0%;
+margin-left: 30px;
+float: left;
+}
+
+.nav-con ul{
+    list-style: none;
+    
+}
+
+.nav-con li{
+    float: left;
+    height: 35px;
+    padding-top: 4px;
+    margin-top: 85px;
+    padding-right: 6%;
+    padding-left: -50px;
+    
+}
+
+.sSearch-nav{
+    width: 600px;
+    height: 70px;
+    margin-top: 0px;
+    margin-left: -40px;
+    float: right;
+    }
+    
+    Search-nav ul{
+        list-style: none;
+        
+    }
+    .Search-nav li{
+        width: 225px;
+        float: right;
+        height: 35px;
+        padding-top: 4px;
+        margin-top: 3%;
+        margin-right: 150px;
+        background-color: lightgray;
+        border-radius: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: 10px;
+        outline: 1px solid #000;
+   }
+
+    .Search-nav img{
+      padding-left: 110px;
+      cursor: pointer;
+   }
+
+    .nav-main{
+        width: 550px;
+        height: 70px;
+        margin-top: 1px;
+        float: left;
+        }
+        
+        .nav-main ul{
+            list-style: none;
+            
+        }
+        .nav-main li{
+            float: left;
+            height: 35px;
+            padding-top: 4px;
+            margin-top: 3%;
+            padding-right: 6%;
+            padding-left: -50px;
+            
+        }
+
+
+header{
+   width: 100%;
+    height:900px ;
+    background-size: cover;
+    padding-top: 150px;
+}
+
+header p{
+    width:800px;
+    padding-top: 3px;
+}
+
+header h1{
+   width: 600px;
+   font-size: 50px;
+   margin-left: -15px;
+}
+
+header h3{
+  margin-left: 70px;
+  font-size: 30px;
+  margin-top: -800px;
+  color: #ffffff;
+}
+
+.grbtn{
+    width: 400px;
+    height: 70px;
+    margin-top: 150px;
+    margin-left: 60px;
+    color: #ffffff;
+}
+
+.col-6s{
+   width: 50%;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 7px;
+    font-weight: bold;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-right: 15px;
+    cursor: pointer;
+    color: #000;
+}
+
+.awbt{
+   margin-top: 100px;
+   margin-left: 550px;
+}
+
+.awbt-2{
+   margin-left: 450px;
+   margin-top: -57px;
+}
+
+.normal{
+    background-color: #2b2b2b;
+    color: #ffffff;
+}
+
+.inverted{
+   border: 2px solid #2b2b2b;
+   padding-top: 5px !important; 
+   margin-left: 190px;
+   margin-top: -40px;
+}
+
+.heart{
+   margin-left: 380px;
+   margin-top: -50px;
+   color: #ffffff;
+   border-radius: 50%;
+   background-color: #000;
+}
+
+.col-box1{
+   color: #ffffff;
+    width:50% ;
+    height: 560px;
+    background-color: grey;
+    text-align:center ;
+    margin-top: -3%;
+    padding-top: 140px;
+    margin-left: 45%;
+ }
+
+ .col-box1 h1{
+    text-align: left;
+    margin-left: 15%;
+ }
+
+ .col-box1 h3{
+    text-align: left;
+    margin-left: 15%;
+    margin-top: -110px;
+ }
+
+ .col-box1 p{
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 50px;
+ }
+
+.col-box{
+
+    width:40% ;
+    height: 330px;
+    background-color: #ffffff;
+    text-align:center ;
+    margin-top: -560px;
+    padding-top: -140px;
+    margin-left: 160px;
+ }
+
+ .sub-head{
+    margin-left: 122px;
+    margin-top: 80px;
+    
+ }
+
+ .col-box2{
+
+    width:277px ;
+    height: 277px;
+    background-image: url();
+    margin-top: 25px;
+    margin-left: 122px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-korn1{
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Korn1.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-anata1{
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Anata1.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-helloween1{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Helloween1.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-mettalica1{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Metallica1.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-anata2{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Anata2.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-korn2{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Korn2.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-metallica2{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Metallica2.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-motorhead1{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Motorhead1.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-suffocation1{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Suffocation1.jpg);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-motorhead2{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Motorhead2.jpg);
+    margin-top: 25px;
+    margin-left: 122px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-suffocation2{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Suffocation2.jpg);
+    margin-top: 25px;
+    margin-left: 122px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-helloween2{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Helloween2.jpg);
+    margin-top: 25px;
+    margin-left: 122px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box2-motorhead2{
+
+    width:277px ;
+    height: 277px;
+    background-image: url(/assets/Motorhead2.jpg);
+    margin-top: 25px;
+    margin-left: 122px;
+    margin-right: 122px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover;
+ }
+
+ .col-box3{
+
+    width:277px ;
+    height: 70px;
+    background-color:#484848 ;
+    margin-left: -100px;
+    margin-top: -795px;
+ }
+
+ .col-box4{
+
+    width:277px ;
+    height: 70px;
+    background-image: url();
+    margin-left: 1280px;
+    margin-top: 0px;
+ }
+
+ .col-box5{
+
+    width:277px ;
+    height: 70px;
+    background-color:#484848 ;
+    margin-left: 122px;
+    margin-right: 122px;
+    margin-top: -70px;
+ }
+
+ .col-box3 p{
+   color: #ffffff;
+   margin-left: 10px;
+   padding-top: 5px;
+ }
+
+ .col-box4 p{
+    color: #ffffff;
+    margin-left: 10px;
+    padding-top: 5px;
+  }
+
+  .col-box5 p{
+    color: #ffffff;
+    margin-left: 10px;
+    padding-top: 5px;
+  }
+
+  .col-box3 h5{
+    color: #ffffff;
+    margin-left: 10px;
+    padding-top: -15px;
+  }
+
+  .col-box4 h5{
+    color: #ffffff;
+    margin-left: 10px;
+    padding-top: -15px;
+  }
+
+  .col-box5 h5{
+    color: #ffffff;
+    margin-left: 10px;
+    padding-top: -15px;
+  }
+
+ .button1{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding-top: 7px;
+    font-weight: bold;
+    float: right;
+    margin-top: 10px;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+ .gr-btn-1{
+    width: 600px;
+    height: 70px;
+    margin-top: 70px;
+    
+}
+
+.inverted1{
+    border: 2px solid #2b2b2b;
+    padding-top: 5px !important; 
+}
+
+.text{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+footer{
+   width: 100%;
+   height: 100px;
+   color: #ffffff;
+}
+
+.smi{
+   padding-left: 1100px;
+   padding-bottom: 2%;
+}

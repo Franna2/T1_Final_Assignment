@@ -1,0 +1,276 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(40, 1, 55);
+    height: auto;
+}
+
+.logo{
+    width: 200px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+
+nav{
+    width: 100%;
+    height: 75px;
+}
+
+.nav-con{
+width: 550px;
+height: 70px;
+margin-top: 1px;
+float: left;
+}
+
+.nav-con ul{
+    list-style: none;
+    
+}
+.nav-con li{
+    float: left;
+    height: 35px;
+    padding-top: 4px;
+    margin-top: 3%;
+    padding-right: 6%;
+    padding-left: -50px;
+    
+}
+
+.sec-nav{
+    width: 600px;
+    height: 70px;
+    margin-top: -75px;
+    float: right;
+    }
+    
+    .sec-nav ul{
+        list-style: none;
+        
+    }
+    .sec-nav li{
+        float: right;
+        height: 35px;
+        padding-top: 4px;
+        margin-top: 3%;
+        margin-right: 150px;
+        background-color: lightgrey;
+        border-radius: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: 10px;
+        outline: 1px solid #000;
+    }
+
+    .sec-nav img{
+        padding-left: 110px;
+        cursor: pointer;
+     }
+
+.name{
+    margin-top: -85px;
+}
+
+    .main{
+        width: 550px;
+        height: 70px;
+        margin-top: 1px;
+        float: right;
+        margin-bottom: -10px;
+        margin-top: -100px;
+        color: #ffffff;
+        }
+        
+        .main ul{
+            list-style: none;
+            
+        }
+        .main li{
+            float: left;
+            height: 35px;
+            padding-top: 10px;
+            margin-top: 3%;
+            padding-right: 6%;
+            padding-left: -50px;
+            
+        }
+.into{
+    border-bottom: 4px solid #2b2b2b !important;
+    margin-left: 22px;
+}
+
+header{
+    width:100% ;
+    height:600px ;
+    padding-top: 150px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+header p{
+    width:600px;
+    padding-top: 3px;
+    margin-left: -15px;
+
+}
+
+header h1{
+   width: 600px;
+   font-size: 50px;
+   margin-left: -15px;
+}
+
+header h3{
+    color: #ffffff;
+  margin-left: -15px;
+  font-size: 30px;
+}
+
+.col-box-1{
+    width: 470px;
+    height: 470px;
+   background-image: url(../assets/album_covers/Playlist.jpg) ;
+   background-size: cover;
+    margin-left: 122px;
+    margin-right: -35px;
+    margin-top: -350px;
+ }
+
+.album h1{
+    color: #ffffff;
+    padding-top: 170px;
+    text-align: center;
+}
+
+.album h2{
+    color: #000;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.album img{
+    padding-left: 210px;
+}
+
+ .col-box-2-4{
+    width: 600px;
+    height: 500px;
+    color: #ffffff;
+    margin-top: -400px;
+    margin-left: -10px;
+    font-size: smaller;
+ }
+
+ .ST{
+    padding: 10%;
+    margin: 0 auto;
+ }
+
+ .A-text{
+    padding-left: 250px;
+    padding-top: -2%;
+ }
+
+ .list{
+    padding: -100%;
+ }
+
+.TIME{
+    padding-left: 450px;
+}
+ .AT{
+    padding-top: 1%;
+ }
+
+ .col-box-2-4 ul{
+    list-style: none;
+ }
+
+.col-box h1{
+    color: #ffffff;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 35%;
+}
+
+
+.col-box h2{
+    color: #ffffff;
+    font-size: 60px;
+    text-align: center;
+    
+}
+
+.line-element{
+    width: 90%;
+    height: 50px;
+    margin-top: 100px;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.line{
+    width: 100%;
+    height: 5px;
+    background-color: lightgrey;
+    align-items: center;
+}
+
+.line-fill{
+    width: 50%;
+    height: 5px;
+    background-color: #2b2b2b;
+}
+
+.marker{
+    width: 20px;
+    height: 20px;
+    background-color: #2b2b2b;
+    border-radius: 20px;
+    margin-left: 50%;
+    margin-top: -12px;
+}
+
+.col-7{
+    width: 14.28571428571425%;
+    padding-left: 122px;
+}
+
+.song-photo{
+    margin-top: -10px;
+    margin-bottom: 40px;
+}
+
+.song{
+    color: #ffffff;
+    padding-bottom: 10%;
+
+}
+
+.buttons{
+    padding-left: 390px;
+    margin-top: -110px;
+}
+.btn1{
+   margin-top: 20px;
+}
+.btn2{
+    margin-left: -100px;
+    margin-top: -10px;
+}
+.btn3{
+    margin-left: -150px;
+    margin-top: 18px;
+}
+
+.end{
+    padding-left: 1100px;
+    color: #ffffff;
+}
+
+.end-point{
+    color: #ffffff;
+    padding-left: 1000px;
+    margin-top: -100px;
+}
